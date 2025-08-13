@@ -1,2 +1,3 @@
-# dsc
-Departamento de Sistemas e Computação
+# Departamento de Sistemas e Computação (DSC)
+
+Site publico do DSC.  
